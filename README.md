@@ -1,6 +1,7 @@
 ## Crude Oil Price Prediction Using Neural Network
 
 This project aims to predict the price of crude oil based on historical data using a neural network. The dataset used contains the date, price, percentage change, and other relevant information about crude oil.
+link of data: [Kaggle]([https://www.linkedin.com/in/jorge-chaves-montiel/](https://www.kaggle.com/datasets/sc231997/crude-oil-price?select=crude-oil-price.csv))
 
 ### Steps Taken
 
